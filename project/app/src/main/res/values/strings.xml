@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyApplication2</string>
+    <string name="hello_world">Start the service and try to rotate screen</string>
+    <string name="action_start">Start</string>
+    <string name="action_stop">Stop</string>
+</resources>
